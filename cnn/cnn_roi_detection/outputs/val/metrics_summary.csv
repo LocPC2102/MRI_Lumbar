@@ -1,0 +1,2 @@
+split,mIoU,hit_rate_0.50,hit_rate_0.75,total_gt_boxes,total_hit50,total_hit75,total_images,exported_figures
+val,0.6765,0.8909,0.3554,1860,1657,661,372,6

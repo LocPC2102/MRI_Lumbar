@@ -1,0 +1,192 @@
+image,grade,zone_code,zone,side,ab_mm,gap_mm,cd_mm,ab_over_cd,landmarks
+images_png_axial_T2_0181_D4,1,RLS,Subarticular Zone,Right,0.00,0.28,9.00,0.000,relaxed
+images_png_axial_T1_0461_D5,1,RFS,Foraminal Zone,Right,0.00,0.96,0.90,0.000,relaxed
+images_png_axial_T2_0052_D3,1,CCS,Central Canal Zone,Central,0.00,2.87,6.90,0.000,strict
+images_png_axial_T1_0030_D5,1,LFS,Foraminal Zone,Left,0.00,1.03,2.40,0.000,relaxed
+images_png_axial_T1_0500_D3,0,CCS,Central Canal Zone,Central,0.00,3.43,6.00,0.000,relaxed
+images_png_axial_T2_0232_D3,1,LFS,Foraminal Zone,Left,0.00,1.87,6.90,0.000,relaxed
+images_png_axial_T1_0013_D4,1,RLS,Subarticular Zone,Right,0.00,2.01,10.80,0.000,strict
+images_png_axial_T2_0305_D4,1,LLS,Subarticular Zone,Left,0.00,1.22,10.80,0.000,strict
+images_png_axial_T1_0427_D4,1,LLS,Subarticular Zone,Left,0.00,2.12,8.70,0.000,strict
+images_png_axial_T1_0317_D3,1,LLS,Subarticular Zone,Left,0.00,2.79,7.20,0.000,strict
+images_png_axial_T2_0461_D4,1,LFS,Foraminal Zone,Left,0.00,2.03,9.60,0.000,strict
+images_png_axial_T1_0253_D5,1,RLS,Subarticular Zone,Right,0.00,1.80,0.90,0.000,fallback
+images_png_axial_T1_0476_D5,1,LFS,Foraminal Zone,Left,0.00,1.71,8.10,0.000,relaxed
+images_png_axial_T2_0153_D5,1,LFS,Foraminal Zone,Left,0.00,0.96,8.40,0.000,relaxed
+images_png_axial_T2_0531_D4,1,CCS,Central Canal Zone,Central,0.00,0.92,10.80,0.000,strict
+images_png_axial_T2_0548_D4,1,LFS,Foraminal Zone,Left,0.00,2.26,10.50,0.000,strict
+images_png_axial_T2_0540_D3,0,CCS,Central Canal Zone,Central,0.00,3.88,7.20,0.000,strict
+images_png_axial_T1_0537_D4,1,CCS,Central Canal Zone,Central,0.00,1.07,7.80,0.000,relaxed
+images_png_axial_T1_0347_D5,1,LLS,Subarticular Zone,Left,0.00,1.50,5.40,0.000,relaxed
+images_png_axial_T2_0510_D4,1,LFS,Foraminal Zone,Left,0.00,1.62,9.00,0.000,strict
+images_png_axial_T1_0036_D3,1,RLS,Subarticular Zone,Right,0.00,2.23,7.20,0.000,strict
+images_png_axial_T1_0171_D5,1,CCS,Central Canal Zone,Central,0.00,1.06,6.00,0.000,strict
+images_png_axial_T1_0550_D5,1,LLS,Subarticular Zone,Left,0.00,1.32,7.50,0.000,strict
+images_png_axial_T1_0196_D4,1,LFS,Foraminal Zone,Left,0.00,2.23,9.00,0.000,strict
+images_png_axial_T1_0295_D3,1,LLS,Subarticular Zone,Left,0.00,2.65,9.00,0.000,relaxed
+images_png_axial_T2_0097_D3,0,CCS,Central Canal Zone,Central,0.00,3.32,7.80,0.000,strict
+images_png_axial_T1_0385_D5,1,CCS,Central Canal Zone,Central,0.00,1.49,1.50,0.000,strict
+images_png_axial_T2_0525_D5,1,CCS,Central Canal Zone,Central,0.00,1.78,9.90,0.000,strict
+images_png_axial_T2_0342_D3,0,CCS,Central Canal Zone,Central,0.00,3.08,8.70,0.000,strict
+images_png_axial_T1_0030_D4,1,LLS,Subarticular Zone,Left,0.00,2.57,8.40,0.000,strict
+images_png_axial_T2_0558_D3,0,CCS,Central Canal Zone,Central,0.00,3.68,6.90,0.000,strict
+images_png_axial_T2_0313_D3,0,CCS,Central Canal Zone,Central,0.00,3.27,7.80,0.000,strict
+images_png_axial_T1_0324_D5,1,LFS,Foraminal Zone,Left,0.00,0.75,9.00,0.000,strict
+images_png_axial_T1_0444_D4,1,LLS,Subarticular Zone,Left,0.00,2.48,10.50,0.000,strict
+images_png_axial_T2_0181_D3,1,RFS,Foraminal Zone,Right,0.00,2.19,9.90,0.000,strict
+images_png_axial_T2_0391_D4,1,LFS,Foraminal Zone,Left,0.00,-0.64,12.00,0.000,strict
+images_png_axial_T2_0385_D5,1,CCS,Central Canal Zone,Central,0.00,0.59,10.20,0.000,relaxed
+images_png_axial_T1_0266_D5,1,CCS,Central Canal Zone,Central,0.00,0.81,1.50,0.000,strict
+images_png_axial_T2_0042_D4,1,RFS,Foraminal Zone,Right,0.00,2.33,8.10,0.000,strict
+images_png_axial_T1_0069_D3,0,CCS,Central Canal Zone,Central,0.00,3.01,4.50,0.000,strict
+images_png_axial_T2_0437_D3,1,RFS,Foraminal Zone,Right,0.00,0.97,10.20,0.000,strict
+images_png_axial_T1_0443_D5,1,RFS,Foraminal Zone,Right,0.00,2.89,3.00,0.000,relaxed
+images_png_axial_T2_0077_D5,1,RFS,Foraminal Zone,Right,0.00,1.05,10.50,0.000,strict
+images_png_axial_T2_0106_D4,1,LFS,Foraminal Zone,Left,0.00,2.91,11.10,0.000,strict
+images_png_axial_T2_0058_D5,1,LLS,Subarticular Zone,Left,0.00,1.82,12.30,0.000,relaxed
+images_png_axial_T1_0159_D5,1,RLS,Subarticular Zone,Right,0.00,1.59,3.60,0.000,fallback
+images_png_axial_T1_0001_D3,1,LLS,Subarticular Zone,Left,0.00,2.30,9.30,0.000,strict
+images_png_axial_T1_0389_D3,1,RLS,Subarticular Zone,Right,0.00,2.69,3.30,0.000,relaxed
+images_png_axial_T2_0292_D4,1,RFS,Foraminal Zone,Right,0.00,0.85,7.20,0.000,strict
+images_png_axial_T2_0543_D4,1,RFS,Foraminal Zone,Right,0.00,2.35,8.40,0.000,strict
+images_png_axial_T2_0442_D5,1,L_EFZ,Extraforaminal Zone,Left,0.00,2.05,7.50,0.000,relaxed
+images_png_axial_T2_0423_D4,1,LFS,Foraminal Zone,Left,0.00,1.16,8.40,0.000,strict
+images_png_axial_T2_0104_D5,1,CCS,Central Canal Zone,Central,0.00,2.20,11.40,0.000,strict
+images_png_axial_T2_0303_D4,1,LFS,Foraminal Zone,Left,0.00,0.21,9.60,0.000,strict
+images_png_axial_T2_0020_D3,1,RFS,Foraminal Zone,Right,0.00,2.85,7.20,0.000,strict
+images_png_axial_T2_0506_D5,1,LLS,Subarticular Zone,Left,0.00,1.60,9.00,0.000,relaxed
+images_png_axial_T1_0205_D4,1,RFS,Foraminal Zone,Right,0.00,1.90,7.80,0.000,strict
+images_png_axial_T2_0313_D5,0,CCS,Central Canal Zone,Central,0.00,3.95,10.20,0.000,strict
+images_png_axial_T2_0325_D4,1,LLS,Subarticular Zone,Left,0.00,1.98,12.00,0.000,strict
+images_png_axial_T2_0384_D4,1,LLS,Subarticular Zone,Left,0.00,2.53,10.80,0.000,strict
+images_png_axial_T1_0400_D3,1,RLS,Subarticular Zone,Right,0.00,2.46,9.60,0.000,relaxed
+images_png_axial_T2_0484_D4,1,LFS,Foraminal Zone,Left,0.00,2.21,9.30,0.000,strict
+images_png_axial_T1_0127_D4,1,CCS,Central Canal Zone,Central,0.00,0.41,7.20,0.000,strict
+images_png_axial_T1_0294_D3,0,CCS,Central Canal Zone,Central,0.00,3.14,9.00,0.000,strict
+images_png_axial_T1_0277_D4,1,RLS,Subarticular Zone,Right,0.00,1.78,9.90,0.000,strict
+images_png_axial_T1_0279_D4,1,RLS,Subarticular Zone,Right,0.00,2.56,4.20,0.000,strict
+images_png_axial_T1_0017_D4,1,RFS,Foraminal Zone,Right,0.00,1.76,6.30,0.000,strict
+images_png_axial_T1_0124_D4,1,RFS,Foraminal Zone,Right,0.00,1.33,9.60,0.000,strict
+images_png_axial_T2_0469_D5,1,RFS,Foraminal Zone,Right,0.00,0.78,10.50,0.000,relaxed
+images_png_axial_T2_0087_D5,1,CCS,Central Canal Zone,Central,0.00,1.82,8.70,0.000,strict
+images_png_axial_T2_0173_D3,0,CCS,Central Canal Zone,Central,0.00,3.56,9.30,0.000,strict
+images_png_axial_T2_0537_D3,0,CCS,Central Canal Zone,Central,0.00,3.31,9.30,0.000,strict
+images_png_axial_T2_0518_D4,1,LLS,Subarticular Zone,Left,0.00,2.34,9.30,0.000,strict
+images_png_axial_T1_0539_D4,1,CCS,Central Canal Zone,Central,0.00,-0.88,4.80,0.000,strict
+images_png_axial_T2_0063_D5,0,CCS,Central Canal Zone,Central,0.00,3.17,10.50,0.000,strict
+images_png_axial_T2_0042_D3,0,CCS,Central Canal Zone,Central,0.00,3.12,5.70,0.000,relaxed
+images_png_axial_T1_0441_D3,1,RLS,Subarticular Zone,Right,0.00,1.88,7.80,0.000,strict
+images_png_axial_T2_0416_D3,1,RFS,Foraminal Zone,Right,0.00,2.92,8.40,0.000,strict
+images_png_axial_T1_0460_D5,1,CCS,Central Canal Zone,Central,0.00,2.07,5.10,0.000,fallback
+images_png_axial_T2_0215_D3,0,CCS,Central Canal Zone,Central,0.00,4.43,6.90,0.000,strict
+images_png_axial_T1_0261_D4,1,RFS,Foraminal Zone,Right,0.00,1.51,10.80,0.000,relaxed
+images_png_axial_T1_0244_D3,1,LLS,Subarticular Zone,Left,0.00,2.54,6.90,0.000,strict
+images_png_axial_T2_0442_D4,1,LFS,Foraminal Zone,Left,0.00,0.85,8.70,0.000,strict
+images_png_axial_T1_0224_D4,0,CCS,Central Canal Zone,Central,0.00,4.02,7.80,0.000,relaxed
+images_png_axial_T2_0472_D5,1,RFS,Foraminal Zone,Right,0.00,1.17,10.50,0.000,strict
+images_png_axial_T2_0223_D5,1,CCS,Central Canal Zone,Central,0.00,1.79,10.80,0.000,strict
+images_png_axial_T1_0561_D4,1,LFS,Foraminal Zone,Left,0.00,1.42,8.10,0.000,relaxed
+images_png_axial_T1_0160_D5,1,CCS,Central Canal Zone,Central,0.00,0.50,11.40,0.000,relaxed
+images_png_axial_T2_0559_D4,1,LLS,Subarticular Zone,Left,0.00,0.89,9.60,0.000,relaxed
+images_png_axial_T1_0075_D3,1,RLS,Subarticular Zone,Right,0.00,2.79,8.40,0.000,relaxed
+images_png_axial_T2_0155_D5,1,CCS,Central Canal Zone,Central,0.00,2.36,7.50,0.000,strict
+images_png_axial_T2_0224_D3,0,CCS,Central Canal Zone,Central,0.00,4.26,8.10,0.000,strict
+images_png_axial_T2_0178_D4,1,CCS,Central Canal Zone,Central,0.00,0.19,11.70,0.000,strict
+images_png_axial_T2_0506_D3,0,CCS,Central Canal Zone,Central,0.00,3.73,8.10,0.000,strict
+images_png_axial_T2_0137_D5,1,LLS,Subarticular Zone,Left,0.00,-0.11,11.40,0.000,relaxed
+images_png_axial_T1_0479_D3,0,CCS,Central Canal Zone,Central,0.00,5.09,2.40,0.000,relaxed
+images_png_axial_T2_0012_D4,1,RFS,Foraminal Zone,Right,0.00,2.23,9.60,0.000,strict
+images_png_axial_T1_0382_D4,1,RLS,Subarticular Zone,Right,0.00,2.45,9.90,0.000,strict
+images_png_axial_T1_0268_D4,1,RLS,Subarticular Zone,Right,0.00,1.95,5.10,0.000,relaxed
+images_png_axial_T1_0445_D4,1,RLS,Subarticular Zone,Right,0.00,1.29,10.20,0.000,strict
+images_png_axial_T2_0292_D3,1,LFS,Foraminal Zone,Left,0.00,2.07,7.80,0.000,strict
+images_png_axial_T1_0558_D3,0,CCS,Central Canal Zone,Central,0.00,3.24,7.80,0.000,relaxed
+images_png_axial_T1_0339_D3,1,LLS,Subarticular Zone,Left,0.00,0.55,3.90,0.000,fallback
+images_png_axial_T1_0375_D4,1,CCS,Central Canal Zone,Central,0.00,-1.66,1.20,0.000,relaxed
+images_png_axial_T2_0492_D5,0,CCS,Central Canal Zone,Central,0.00,3.10,5.10,0.000,relaxed
+images_png_axial_T1_0217_D3,1,RFS,Foraminal Zone,Right,0.00,1.50,5.40,0.000,strict
+images_png_axial_T1_0437_D3,1,CCS,Central Canal Zone,Central,0.00,-3.35,7.20,0.000,strict
+images_png_axial_T1_0007_D4,1,RLS,Subarticular Zone,Right,0.00,0.39,10.20,0.000,strict
+images_png_axial_T1_0307_D3,1,LFS,Foraminal Zone,Left,0.00,1.29,10.20,0.000,strict
+images_png_axial_T1_0424_D4,1,RLS,Subarticular Zone,Right,0.00,2.00,10.50,0.000,strict
+images_png_axial_T1_0357_D5,1,LLS,Subarticular Zone,Left,0.00,0.77,1.80,0.000,fallback
+images_png_axial_T2_0040_D5,1,CCS,Central Canal Zone,Central,0.00,-0.13,10.50,0.000,strict
+images_png_axial_T2_0120_D4,1,RFS,Foraminal Zone,Right,0.00,1.23,12.00,0.000,strict
+images_png_axial_T1_0149_D4,1,LFS,Foraminal Zone,Left,0.00,1.05,8.10,0.000,strict
+images_png_axial_T1_0409_D5,1,CCS,Central Canal Zone,Central,0.00,2.14,5.40,0.000,strict
+images_png_axial_T1_0026_D4,1,RFS,Foraminal Zone,Right,0.00,2.99,9.60,0.000,strict
+images_png_axial_T2_0546_D4,1,LLS,Subarticular Zone,Left,0.00,1.07,9.90,0.000,strict
+images_png_axial_T2_0345_D5,1,RLS,Subarticular Zone,Right,0.00,2.53,5.10,0.000,relaxed
+images_png_axial_T2_0353_D5,1,RFS,Foraminal Zone,Right,0.00,0.83,9.90,0.000,relaxed
+images_png_axial_T1_0032_D4,1,LFS,Foraminal Zone,Left,0.00,2.54,10.50,0.000,strict
+images_png_axial_T2_0487_D4,1,LFS,Foraminal Zone,Left,0.00,2.91,9.90,0.000,strict
+images_png_axial_T1_0185_D4,3,CCS,Central Canal Zone,Central,3.27,0.00,3.30,0.992,fallback
+images_png_axial_T2_0532_D5,1,CCS,Central Canal Zone,Central,0.00,1.60,9.60,0.000,strict
+images_png_axial_T2_0016_D4,1,LLS,Subarticular Zone,Left,0.00,0.32,11.40,0.000,relaxed
+images_png_axial_T1_0091_D4,1,LLS,Subarticular Zone,Left,0.00,2.22,12.00,0.000,relaxed
+images_png_axial_T2_0184_D4,1,LLS,Subarticular Zone,Left,0.00,0.62,11.40,0.000,strict
+images_png_axial_T1_0456_D5,1,R_EFZ,Extraforaminal Zone,Right,0.00,1.32,4.50,0.000,relaxed
+images_png_axial_T2_0239_D3,1,LLS,Subarticular Zone,Left,0.00,2.67,12.00,0.000,strict
+images_png_axial_T2_0385_D3,1,LFS,Foraminal Zone,Left,0.00,1.45,9.30,0.000,strict
+images_png_axial_T1_0466_D5,1,LFS,Foraminal Zone,Left,0.00,2.62,8.40,0.000,strict
+images_png_axial_T1_0008_D4,1,LFS,Foraminal Zone,Left,0.00,1.77,7.50,0.000,strict
+images_png_axial_T1_0294_D5,1,LFS,Foraminal Zone,Left,0.00,1.99,4.80,0.000,relaxed
+images_png_axial_T2_0565_D5,1,LFS,Foraminal Zone,Left,0.00,1.87,6.30,0.000,relaxed
+images_png_axial_T1_0205_D3,0,CCS,Central Canal Zone,Central,0.00,3.03,6.60,0.000,strict
+images_png_axial_T1_0537_D3,1,CCS,Central Canal Zone,Central,0.00,1.61,8.40,0.000,strict
+images_png_axial_T2_0571_D4,1,LFS,Foraminal Zone,Left,0.00,0.98,12.00,0.000,relaxed
+images_png_axial_T2_0427_D4,1,LLS,Subarticular Zone,Left,0.00,1.77,3.00,0.000,relaxed
+images_png_axial_T1_0292_D3,1,LFS,Foraminal Zone,Left,0.00,2.60,5.70,0.000,relaxed
+images_png_axial_T2_0016_D5,1,LLS,Subarticular Zone,Left,0.00,1.04,11.40,0.000,strict
+images_png_axial_T2_0563_D3,1,RLS,Subarticular Zone,Right,0.00,2.40,10.50,0.000,relaxed
+images_png_axial_T1_0224_D3,0,CCS,Central Canal Zone,Central,0.00,4.74,8.40,0.000,strict
+images_png_axial_T1_0071_D3,1,RLS,Subarticular Zone,Right,0.00,1.49,8.70,0.000,strict
+images_png_axial_T2_0573_D4,1,LFS,Foraminal Zone,Left,0.00,2.39,9.90,0.000,strict
+images_png_axial_T2_0194_D4,1,LLS,Subarticular Zone,Left,0.00,2.19,10.50,0.000,strict
+images_png_axial_T2_0026_D5,1,LLS,Subarticular Zone,Left,0.00,2.12,8.40,0.000,strict
+images_png_axial_T2_0543_D5,1,RLS,Subarticular Zone,Right,0.00,2.07,6.00,0.000,strict
+images_png_axial_T2_0063_D3,1,LFS,Foraminal Zone,Left,0.00,1.96,10.50,0.000,strict
+images_png_axial_T1_0372_D3,1,LLS,Subarticular Zone,Left,0.00,1.99,8.40,0.000,strict
+images_png_axial_T1_0375_D3,1,LLS,Subarticular Zone,Left,0.00,2.25,5.70,0.000,strict
+images_png_axial_T2_0156_D3,0,CCS,Central Canal Zone,Central,0.00,4.54,6.90,0.000,strict
+images_png_axial_T1_0564_D3,1,LFS,Foraminal Zone,Left,0.00,2.19,9.60,0.000,strict
+images_png_axial_T1_0236_D4,1,LLS,Subarticular Zone,Left,0.00,2.26,9.60,0.000,relaxed
+images_png_axial_T2_0010_D5,1,CCS,Central Canal Zone,Central,0.00,2.90,8.40,0.000,relaxed
+images_png_axial_T1_0023_D5,1,RLS,Subarticular Zone,Right,0.00,0.14,7.50,0.000,relaxed
+images_png_axial_T2_0411_D5,1,CCS,Central Canal Zone,Central,0.00,0.59,9.60,0.000,relaxed
+images_png_axial_T2_0456_D4,1,RFS,Foraminal Zone,Right,0.00,0.15,9.30,0.000,relaxed
+images_png_axial_T1_0479_D4,1,CCS,Central Canal Zone,Central,0.00,2.23,7.20,0.000,relaxed
+images_png_axial_T2_0540_D5,1,LLS,Subarticular Zone,Left,0.00,1.48,9.90,0.000,relaxed
+images_png_axial_T2_0180_D3,0,CCS,Central Canal Zone,Central,0.00,4.18,9.90,0.000,strict
+images_png_axial_T2_0358_D3,0,CCS,Central Canal Zone,Central,0.00,3.31,6.30,0.000,strict
+images_png_axial_T2_0200_D4,1,LFS,Foraminal Zone,Left,0.00,0.46,11.40,0.000,strict
+images_png_axial_T2_0247_D3,1,RFS,Foraminal Zone,Right,0.00,2.27,9.30,0.000,strict
+images_png_axial_T2_0433_D4,1,LLS,Subarticular Zone,Left,0.00,2.32,11.70,0.000,strict
+images_png_axial_T2_0350_D5,1,LLS,Subarticular Zone,Left,0.00,2.32,9.30,0.000,strict
+images_png_axial_T1_0181_D5,1,LFS,Foraminal Zone,Left,0.00,-0.01,11.40,0.000,strict
+images_png_axial_T1_0470_D4,0,CCS,Central Canal Zone,Central,0.00,3.08,9.90,0.000,relaxed
+images_png_axial_T2_0086_D4,1,LLS,Subarticular Zone,Left,0.00,2.18,9.60,0.000,relaxed
+images_png_axial_T2_0278_D5,1,LLS,Subarticular Zone,Left,0.00,0.88,9.30,0.000,relaxed
+images_png_axial_T1_0050_D4,1,LFS,Foraminal Zone,Left,0.00,-0.14,9.60,0.000,strict
+images_png_axial_T1_0197_D4,1,RLS,Subarticular Zone,Right,0.00,1.44,8.70,0.000,relaxed
+images_png_axial_T1_0428_D5,1,CCS,Central Canal Zone,Central,0.00,1.85,5.70,0.000,relaxed
+images_png_axial_T1_0219_D3,1,LLS,Subarticular Zone,Left,0.00,2.29,6.60,0.000,strict
+images_png_axial_T1_0202_D4,1,LLS,Subarticular Zone,Left,0.00,1.88,5.70,0.000,strict
+images_png_axial_T1_0410_D4,1,CCS,Central Canal Zone,Central,0.00,0.45,3.30,0.000,relaxed
+images_png_axial_T1_0351_D4,1,RLS,Subarticular Zone,Right,0.00,2.22,11.40,0.000,strict
+images_png_axial_T2_0217_D3,1,RFS,Foraminal Zone,Right,0.00,0.77,7.50,0.000,strict
+images_png_axial_T2_0156_D4,1,LLS,Subarticular Zone,Left,0.00,2.63,11.10,0.000,strict
+images_png_axial_T1_0346_D5,1,RLS,Subarticular Zone,Right,0.00,0.81,2.70,0.000,relaxed
+images_png_axial_T2_0171_D5,1,CCS,Central Canal Zone,Central,0.00,-0.22,14.10,0.000,relaxed
+images_png_axial_T2_0572_D5,1,LLS,Subarticular Zone,Left,0.00,-0.47,9.30,0.000,strict
+images_png_axial_T2_0497_D5,1,RFS,Foraminal Zone,Right,0.00,0.43,5.10,0.000,strict
+images_png_axial_T1_0395_D4,1,LLS,Subarticular Zone,Left,0.00,0.49,10.20,0.000,strict
+images_png_axial_T1_0470_D3,1,RLS,Subarticular Zone,Right,0.00,2.81,8.40,0.000,strict
+images_png_axial_T2_0139_D5,1,LFS,Foraminal Zone,Left,0.00,2.85,11.40,0.000,strict
+images_png_axial_T1_0431_D4,1,LLS,Subarticular Zone,Left,0.00,1.01,4.20,0.000,relaxed
+images_png_axial_T1_0508_D5,1,LLS,Subarticular Zone,Left,0.00,1.33,3.30,0.000,strict
+images_png_axial_T1_0415_D3,1,LFS,Foraminal Zone,Left,0.00,-0.43,7.80,0.000,strict
+images_png_axial_T1_0020_D5,1,CCS,Central Canal Zone,Central,0.00,2.20,8.10,0.000,strict
+images_png_axial_T2_0504_D5,1,LLS,Subarticular Zone,Left,0.00,-0.50,9.60,0.000,strict
+images_png_axial_T2_0222_D5,2,CCS,Central Canal Zone,Central,1.25,0.00,9.30,0.135,strict
+images_png_axial_T2_0384_D3,1,RLS,Subarticular Zone,Right,0.00,2.52,10.50,0.000,strict

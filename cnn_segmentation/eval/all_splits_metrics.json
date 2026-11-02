@@ -1,0 +1,200 @@
+{
+  "train": {
+    "num_images": 1749,
+    "num_pixels_evaluated": 114622464,
+    "pixel_accuracy": 0.9922771857355989,
+    "mean_iou": 0.9036248183653639,
+    "mean_dice": 0.9482084749213257,
+    "per_class": {
+      "Background": {
+        "iou": 0.9922329975498144,
+        "dice": 0.9961013583954598,
+        "pixel_accuracy_recall": 0.995506804697969,
+        "ground_truth_pixels": 105531135,
+        "predicted_pixels": 105405156
+      },
+      "PE": {
+        "iou": 0.8437003322399197,
+        "dice": 0.9152250151356262,
+        "pixel_accuracy_recall": 0.9317018579266284,
+        "ground_truth_pixels": 2792360,
+        "predicted_pixels": 2892902
+      },
+      "CC": {
+        "iou": 0.8427141648878328,
+        "dice": 0.9146444749222724,
+        "pixel_accuracy_recall": 0.9333230739722239,
+        "ground_truth_pixels": 448371,
+        "predicted_pixels": 466684
+      },
+      "IVD": {
+        "iou": 0.935851778783889,
+        "dice": 0.9668630512319445,
+        "pixel_accuracy_recall": 0.9674517032276017,
+        "ground_truth_pixels": 5850598,
+        "predicted_pixels": 5857722
+      }
+    },
+    "confusion_matrix": [
+      [
+        105056963,
+        273768,
+        16520,
+        183884
+      ],
+      [
+        172023,
+        2601647,
+        15059,
+        3631
+      ],
+      [
+        7970,
+        11890,
+        418475,
+        10036
+      ],
+      [
+        168200,
+        5597,
+        16630,
+        5660171
+      ]
+    ],
+    "confusion_matrix_note": "Rows=true class, columns=predicted class",
+    "split": "train",
+    "num_samples": 1749
+  },
+  "val": {
+    "num_images": 375,
+    "num_pixels_evaluated": 24576000,
+    "pixel_accuracy": 0.9883489583333334,
+    "mean_iou": 0.8589719677310035,
+    "mean_dice": 0.9213704620633054,
+    "per_class": {
+      "Background": {
+        "iou": 0.9883677124762272,
+        "dice": 0.9941498308130912,
+        "pixel_accuracy_recall": 0.9936742575134917,
+        "ground_truth_pixels": 22645563,
+        "predicted_pixels": 22623897
+      },
+      "PE": {
+        "iou": 0.7581948706073062,
+        "dice": 0.8624696650894159,
+        "pixel_accuracy_recall": 0.865756594169366,
+        "ground_truth_pixels": 605080,
+        "predicted_pixels": 609692
+      },
+      "CC": {
+        "iou": 0.7793772863698148,
+        "dice": 0.87601127915919,
+        "pixel_accuracy_recall": 0.8854353436214205,
+        "ground_truth_pixels": 96487,
+        "predicted_pixels": 98563
+      },
+      "IVD": {
+        "iou": 0.9099480014706655,
+        "dice": 0.9528510731915245,
+        "pixel_accuracy_recall": 0.9586579540553517,
+        "ground_truth_pixels": 1228870,
+        "predicted_pixels": 1243848
+      }
+    },
+    "confusion_matrix": [
+      [
+        22502313,
+        80015,
+        4072,
+        59163
+      ],
+      [
+        74337,
+        523852,
+        4803,
+        2088
+      ],
+      [
+        2267,
+        4256,
+        85433,
+        4531
+      ],
+      [
+        44980,
+        1569,
+        4255,
+        1178066
+      ]
+    ],
+    "confusion_matrix_note": "Rows=true class, columns=predicted class",
+    "split": "val",
+    "num_samples": 375
+  },
+  "test": {
+    "num_images": 375,
+    "num_pixels_evaluated": 24576000,
+    "pixel_accuracy": 0.9890229085286458,
+    "mean_iou": 0.8680218959349144,
+    "mean_dice": 0.9269623482065125,
+    "per_class": {
+      "Background": {
+        "iou": 0.9889503917054353,
+        "dice": 0.994444502818851,
+        "pixel_accuracy_recall": 0.994426502733109,
+        "ground_truth_pixels": 22651128,
+        "predicted_pixels": 22650308
+      },
+      "PE": {
+        "iou": 0.7695413640322197,
+        "dice": 0.8697636344354005,
+        "pixel_accuracy_recall": 0.8754094532839655,
+        "ground_truth_pixels": 599580,
+        "predicted_pixels": 607364
+      },
+      "CC": {
+        "iou": 0.798681504333774,
+        "dice": 0.8880744060684642,
+        "pixel_accuracy_recall": 0.8960700489312388,
+        "ground_truth_pixels": 97075,
+        "predicted_pixels": 98823
+      },
+      "IVD": {
+        "iou": 0.9149143236682284,
+        "dice": 0.9555668495033341,
+        "pixel_accuracy_recall": 0.9521778317675134,
+        "ground_truth_pixels": 1228217,
+        "predicted_pixels": 1219505
+      }
+    },
+    "confusion_matrix": [
+      [
+        22524882,
+        76634,
+        3671,
+        45941
+      ],
+      [
+        70769,
+        524878,
+        3421,
+        512
+      ],
+      [
+        2519,
+        3999,
+        86986,
+        3571
+      ],
+      [
+        52138,
+        1853,
+        4745,
+        1169481
+      ]
+    ],
+    "confusion_matrix_note": "Rows=true class, columns=predicted class",
+    "split": "test",
+    "num_samples": 375
+  }
+}

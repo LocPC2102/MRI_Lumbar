@@ -1,0 +1,6 @@
+pred_slot \ gt_site,CCS,LLS,RLS,LFS,RFS,miss
+CCS,244,1,0,0,0,3
+LLS,1,244,0,1,0,2
+RLS,0,0,245,0,0,3
+LFS,0,1,0,240,0,7
+RFS,0,0,4,0,242,2

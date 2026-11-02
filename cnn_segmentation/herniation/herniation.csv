@@ -1,0 +1,13 @@
+image,grade,ab_over_width,ab_over_canal,tilt_deg,flag,zone
+axial2,,-0.049,,1,line_length,
+axial_T2_0469_D5,1,-0.017,,0,,
+axial_T2_0470_D3,0,-0.110,,2,,
+axial_T2_0470_D4,0,-0.079,,2,,
+external_other,,,,,no_disc_or_facet,
+external_other_2,,,,,no_disc_or_facet,
+external_other_3,,-0.147,,2,line_length,
+external_sagittal,,0.875,2.187,64,tilt,
+external_sagittal_1,,,,,no_disc_or_facet,
+external_sagittal_2,,,,,no_disc_or_facet,
+IM000001,,-0.054,,2,line_length,
+IM000012,,0.030,,1,line_length,

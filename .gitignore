@@ -1,0 +1,13 @@
+# Classifier datasets
+/cnn_classifier/datasets/
+
+# Classifier model weights
+/cnn_classifier/models/*.pth
+/cnn_classifier/models/quantized/*.npz
+
+# Classifier intermediate inference results
+/cnn_classifier/integer_results/
+
+# ROI datasets
+/cnn/cnn_roi_detection/datasets/dataset_5roi/
+/cnn/cnn_roi_detection/datasets/dataset_5roi_256/
